@@ -25,7 +25,7 @@ I'm a passionate Software Engineer with over 5 years of experience in web develo
 
 ### 📫 How to Reach Me
 
-- **Email:** [Your Email](engineer.js101@gmail.com)
+- **Email:** engineer.js101@gmail.com
 
 ### ✨ Fun Fact
 
